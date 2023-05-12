@@ -5,7 +5,7 @@ A Warp 4D template for Reallusion Character Creator 4, converted from a model ob
 A 3D topology software developed by the Russian company Russian3DScanner (R3DS), mainly used for topology of humans or other creatures.
 Here is the official website of R3DS: https://www.russian3dscanner.com/wrap4d/
 ## What does this template do?
-It allows you to quickly and effortlessly connect various nodes (of course, I have done it all for you, otherwise, there would be no point in releasing this thing), and it is reusable!
+It allows you to quickly and effortlessly topology 3D Scan head or body to CC4 model (of course, I have done it all for you, otherwise, there would be no point in releasing this thing), and it is reusable!
 
 Currently, this template supports:
 
